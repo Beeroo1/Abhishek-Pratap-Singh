@@ -1,0 +1,88 @@
+{
+  "siteUrl": "https://www.example.in",
+  "name": "Abhishek Pratap Singh",
+  "title": "Advocate",
+  "enrolment": "Bar Council of Delhi, D/2287/2026",
+  "location": "Greater Noida / Delhi NCR",
+  "email": "work.singhabhishek@gmail.com",
+  "phone": "+91-9958440359",
+  "linkedin": "https://www.linkedin.com/in/abhishek-pratap-singh-6878491b6",
+  "cvFile": "cv.pdf",
+  "tagline": "Disputes practitioner. Draftsman by discipline, engineer by method.",
+  "summary": "Newly enrolled advocate with concentrated training in disputes, including arbitration, SEBI and SAT enforcement, PMLA defence, corporate insolvency, public procurement and constitutional writ practice, alongside independent work in civil recovery and real estate drafting. Drafting foundation across plaints, written statements, counter-claims, writ petitions, counter-affidavits, replies to Section 50 PMLA summons, cease-and-desist notices and commercial agreements. Pinpoint-verified research on SCC Online and Manupatra, sharpened by technology-assisted workflows for research and document preparation.",
+  "practiceAreas": [
+    "Civil and commercial litigation",
+    "Domestic arbitration",
+    "Securities enforcement (SEBI and SAT)",
+    "PMLA defence",
+    "Corporate insolvency",
+    "Public procurement and tender disputes",
+    "Real estate"
+  ],
+  "experience": [
+    {
+      "role": "Trainee, Litigation and Dispute Resolution",
+      "where": "Asraya Legal, Defence Colony, New Delhi",
+      "when": "July 2026",
+      "intro": "Concentrated litigation training across arbitration, securities enforcement, PMLA defence, corporate insolvency, public procurement, tax writs and real estate.",
+      "matters": [
+        { "forum": "Punjab and Haryana High Court", "law": "s. 37, s. 42 A&C Act", "text": "Appeal against an order in execution of an arbitral award: jurisdictional contention under Section 42 built on Associated Contractors and BGS SGS Soma JV, with the adverse High Court authority identified and distinguished; the award tested against limitation precedents including Geo Miller and B&T AG." },
+        { "forum": "Supreme Court", "law": "PC Act · BNS", "text": "Special leave petition for bail: ground-by-ground research map (Nanjappa, Neeraj Dutta, P. Chidambaram v. ED, Manish Sisodia v. ED), OCR-based pinpoint verification against reported judgments, List of Dates, and English translation of a Hindi chargesheet." },
+        { "forum": "Securities Appellate Tribunal", "law": "SEBI PFUTP Regulations", "text": "Proposed grounds of appeal against a SEBI final order involving fifteen noticees: per-noticee exposure grid grading liability and quantum, and a doctrinal defence drawn from Kanaiyalal, Balram Garg, Chintalapati and Kishore Ajmera." },
+        { "forum": "Directorate of Enforcement", "law": "s. 50, s. 3 PMLA", "text": "Replies to summons in English and Hindi for two individuals, structured on a two-layer denial: no proceeds of crime in the client's hands, and absence of knowledge and mens rea under Section 3." },
+        { "forum": "Delhi High Court", "law": "Art. 226 · Tender law", "text": "Counter-affidavit in a tender-disqualification writ against a public sector respondent, founded on two independent grounds drawn from the petitioner's own bid documents." },
+        { "forum": "Delhi High Court", "law": "Art. 226 · CGST Act s. 74", "text": "Writ research across six independent grounds, including an argument on the mischaracterisation of proceedings under Section 74." },
+        { "forum": "NCLT", "law": "s. 14 IBC", "text": "Due diligence on a pending insolvency petition against a listed infrastructure company, assessing the reach of the Section 14 moratorium." },
+        { "forum": "Public sector undertaking", "law": "Natural justice", "text": "Reply to a contractor-debarment show-cause notice, with the natural-justice deficiency identified as the primary line of defence." },
+        { "forum": "TDSAT", "law": "Broadcasting petition", "text": "Proxy appearance in a broadcasting petition." }
+      ]
+    },
+    {
+      "role": "Advocate, Independent Practice",
+      "where": "Bar Council of Delhi",
+      "when": "2026",
+      "intro": "",
+      "matters": [
+        { "forum": "Civil recovery", "law": "Order XXXVII CPC · s. 60 ICA", "text": "Summary suit strategy for debt recovery, structured on appropriation of payments under Section 60 of the Indian Contract Act, elected in place of a time-barred Section 138 NI Act route." },
+        { "forum": "Real estate", "law": "Construction contract", "text": "Vetting of a construction agreement for a Greater Noida property, with amendments addressing quantity variance, extra-work approval, liquidated damages and a bespoke arbitration clause." },
+        { "forum": "Real estate", "law": "Title and possession", "text": "Cease-and-desist and legal notices in a West Delhi title-and-possession dispute." },
+        { "forum": "Research", "law": "PWDVA · BNS · Senior Citizens Act", "text": "Statutory framework for a domestic dispute across protective, criminal and civil recovery remedies, with a strength and weakness matrix." }
+      ]
+    },
+    {
+      "role": "Litigation Intern",
+      "where": "Integritas Law Firm, C.R. Park, New Delhi",
+      "when": "Sep to Nov 2025 · Feb to Apr 2026",
+      "intro": "Assessment internship, extended as a call-back traineeship. Drafting and research across commercial, civil, property, MACT and consumer matters.",
+      "matters": [
+        { "forum": "Commercial Court", "law": "s. 2 Commercial Courts Act", "text": "First draft of a commercial suit for breach of a binding transfer agreement concerning a Discovered Small Field." },
+        { "forum": "Civil courts", "law": "Order 41 Rule 22 CPC", "text": "First draft of a cross-appeal; counter-affidavit in a civil recovery suit; rejoinder before a District Consumer Commission." },
+        { "forum": "Research", "law": "s. 126 TPA · MACT", "text": "Preliminary note on the revocation of a gift deed of immovable property; grounds for a motor accident claims appeal." },
+        { "forum": "Drafting", "law": "BSA s. 63(4)(c)", "text": "Short-term rental service agreement; condonation of delay applications; ex parte evidence affidavits; electronic evidence certificates; statements of truth." }
+      ]
+    }
+  ],
+  "earlier": "Internships during the LLB: Delhi High Court (chambers of HMJ Mini Pushkarna); chambers of Sr. Adv. Sanjay R. Hegde; Delhi Dispute Resolution Society; Aspire Legal, East of Kailash (corporate drafting).",
+  "education": [
+    { "what": "BA LLB (Hons.)", "where": "Lloyd Law College, Greater Noida", "when": "Batch of 2020 to 2025" },
+    { "what": "Enrolled Advocate", "where": "Bar Council of Delhi, D/2287/2026", "when": "June 2026" },
+    { "what": "All India Bar Examination", "where": "Bar Council of India", "when": "Qualified" }
+  ],
+  "courts": ["Supreme Court", "Delhi High Court", "Punjab and Haryana High Court", "Delhi District Courts", "SAT", "TDSAT", "NCLT", "DRT-related proceedings"],
+  "skills": [
+    { "k": "Drafting", "v": "Plaints, written statements, counter-claims, writ petitions (Articles 226 and 227), SLPs, appeals, review petitions, legal notices and replies, replies to show-cause notices, cease-and-desist notices, commercial agreements and arbitration clauses." },
+    { "k": "Research", "v": "SCC Online, Manupatra, SEBI, SAT, NCLT and CCI portals; pinpoint verification against reported judgments." },
+    { "k": "Languages", "v": "English (professional), Hindi (native), Japanese (A2)." }
+  ],
+  "project": {
+    "name": "Real estate due-diligence engine",
+    "status": "Specification v0.3",
+    "text": "A diligence tool for the Greater Noida property corridor. A deterministic Python rule engine evaluates title and regulatory checks; Tesseract OCR extracts text from records; no language model sits in the decision path, so every conclusion is traceable to a rule.",
+    "stack": ["Python", "Node.js", "Tesseract OCR", "Rule engine"]
+  },
+  "publication": "Practitioner note on Sanjabij Tari v. Kishore S. Borcar: Section 138 Negotiable Instruments Act read with Section 223 BNSS.",
+  "additional": [
+    "First-generation advocate, from a family of police and army officers.",
+    "Competitive shooter: pre-State qualifier, 25-metre standard pistol."
+  ]
+}
